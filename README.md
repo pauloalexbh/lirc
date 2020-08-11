@@ -27,7 +27,7 @@ dtoverlay=gpio-ir-tx, gpio_pin=17
 
 ![Esquematico](/Imagens/Esquematico.jpeg)
 
-## Pinagem do Sensor:
+## Pinagem do Sensor VS1838b:
 
 ![Sensor_IR](/Imagens/Sensor_IR.jpeg)
 
