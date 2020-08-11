@@ -1,13 +1,16 @@
 # lirc
 Código criado por Paulo Campos para testar comunicaçã infravermelho no Raspberry Pi.
 
+Projeto base:
+https://www.instructables.com/id/Setup-IR-Remote-Control-Using-LIRC-for-the-Raspber/
+
 ----------------------
 sudo nano /boot/config.txt
 descomentar as seguintes linhas e alterar as numerações conforme abaixo:
 
 :
 
-# Uncomment this to enable the lirc-rpi module
+#Uncomment this to enable the lirc-rpi module
 
 #dtoverlay=lirc-rpi
 
