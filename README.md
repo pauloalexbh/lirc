@@ -1,6 +1,25 @@
 # lirc
 Código criado por Paulo Campos para testar comunicaçã infravermelho no Raspberry Pi.
 
+----------------------
+sudo nano /boot/config.txt
+descomentar as seguintes linhas e alterar as numerações conforme abaixo:
+
+:
+
+# Uncomment this to enable the lirc-rpi module
+
+#dtoverlay=lirc-rpi
+
+dtoverlay=gpio-ir,gpio_pin=27
+
+dtoverlay=gpio-ir-tx, gpio_pin=17
+
+:
+
+-----------------------------
+
+
 ## Esquemático:
 
 ![Esquematico](/Imagens/Esquematico.jpeg)
