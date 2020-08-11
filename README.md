@@ -5,8 +5,10 @@ Projeto base:
 https://www.instructables.com/id/Setup-IR-Remote-Control-Using-LIRC-for-the-Raspber/
 
 ----------------------
-sudo nano /boot/config.txt
 descomentar as seguintes linhas e alterar as numerações conforme abaixo:
+
+sudo nano /boot/config.txt
+
 
 :
 
