@@ -1,8 +1,14 @@
 # lirc
 Código criado por Paulo Campos para testar comunicaçã infravermelho no Raspberry Pi.
 
+Esquemático:
+![Esquematico](/Esquematico.jpeg)
 
+Pinagem do Sensor:
+![Sensor](/Sensor.jpeg)
 
+Pinagem do Raspberry Pi Zero:
+![Pinagem](/Pinagem.jpeg)
 
 Para mais códigos de Paulo Campos acesse:
 
